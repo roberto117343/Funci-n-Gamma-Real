@@ -1,1 +1,1 @@
-# Funci-n-Gamma-Real
+# Funcion-Gamma-Real
